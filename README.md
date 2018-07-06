@@ -1,0 +1,1 @@
+## NSS in class python exercise for using logic in comprehensions
